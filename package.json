@@ -1,0 +1,28 @@
+{
+  "name": "public-for-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aikidodemoorg2/public-for-testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aikidodemoorg2/public-for-testing/issues"
+  },
+  "homepage": "https://github.com/aikidodemoorg2/public-for-testing#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "lodash": "^4.16.0",
+    "minimist": "^1.2.5",
+    "tough-cookie": "^4.0.0"
+  }
+}
