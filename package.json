@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "axios": "^0.28.0",
-    "lodash": "^4.16.0",
+    "lodash": "^4.17.21",
     "minimist": "^1.2.5",
     "tough-cookie": "^4.0.0"
   }
