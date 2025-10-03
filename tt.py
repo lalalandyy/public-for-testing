@@ -17,4 +17,3 @@ def check_token(token):
     SECRET_KEY = "sk_live_1234567890abcdefghijklmnop"
     if token == SECRET_KEY:
         return True
-    return False
